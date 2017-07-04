@@ -1,0 +1,15 @@
+{
+  "name": "oopday",
+  "version": "1.0.0",
+  "description": "oop app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "obum",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
